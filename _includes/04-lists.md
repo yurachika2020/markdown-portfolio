@@ -1,0 +1,3 @@
+- coding
+- reding books related to coding and software engineering
+- test
