@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+<li>Coding</li>
+<li>Reding books related to coding and software engineering</li>
+<li>test</li>
